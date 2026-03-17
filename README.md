@@ -1,12 +1,12 @@
 <div align="center">
 
-# I am currently unsupervised.
+# I'm Lollo🌷, and I'm currently unsupervised. 👺👺👺
 
 *Operating somewhere in Milan. It is 2026, and I still do not understand how umbrellas work in the wind.*
 
 <br>
 
-> *"He is completely harmless, but mostly confused."* > — Someone, probably.
+ *"He is completely harmless, but mostly confused."* > — Someone, probably.
 
 <br>
 </div>
@@ -36,14 +36,12 @@ Instead of traditional skills, I have specialized in highly specific, unmarketab
 
 ### Geometrical Shapes I Keep Around for Aesthetic Purposes
 I was told displaying these specific colors makes me look trustworthy. I do not know what they mean.
+<div align="center">
 
-<br>
+<img src="https://www.pngall.com/wp-content/uploads/13/Jake-Adventure-Time-PNG-Pic.png" width="250" alt="Jake The Dog">
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next">
-<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest">
-<img src="
+<br><br>
+
+*If you need to reach me, please don't.*
+
+</div>
